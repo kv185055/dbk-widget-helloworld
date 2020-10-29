@@ -1,0 +1,13 @@
+{
+  "env": {
+    "browser": true,
+    "node": true,
+    "jest/globals": true
+  },
+  "extends": [
+    "@fluid/eslint-config/src/reactLintConfig"
+  ],
+  "plugins": [
+    "jest"
+  ]
+}
